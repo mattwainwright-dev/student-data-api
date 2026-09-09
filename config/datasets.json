@@ -10,5 +10,9 @@
   "viral-50-usa": {
     "file": "data/viral-50-usa.csv",
     "description": "A sample Viral 50 USA music chart with track positions and artists"
-  }
+  },
+  "pulse-artists": {
+  "file": "data/pulse-artists.csv",
+  "description": "Pulse artist profiles with genres, origins, band history, members, bios, images, and official websites"
+}
 }
